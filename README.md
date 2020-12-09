@@ -8,7 +8,9 @@ docker-compose up -d
 Предварительно делаем DNS запись или прописываем в файле hosts.
 
 ***Prometheus***<br>
-http://blog.example.com:9090
+http://blog.example.com:9090 <br>
+Login: admin<br>
+Password: admin<br>
 
 ***Grafana***<br>
 http://blog.example.com:3000/ <br>
