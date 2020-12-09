@@ -138,13 +138,11 @@ services:
     labels:
       org.label-schema.group: "monitoring"
 
-
 volumes:
   wordpress:
   dbdata:
   prometheus_data: {}
   grafana_data: {}
-
 
 networks:
   app-network:
